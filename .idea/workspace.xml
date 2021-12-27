@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41397716-ada8-4cdc-9e19-b725baee05d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoon/19236/s2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoon/20057/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/20057/s1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +12,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BaekJoon/14889/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="68" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaekJoon/21608/s1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BaekJoon/15685/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="25" column="20" selection-end-line="26" selection-end-column="10" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -89,6 +74,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
               <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaekJoon/12865/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="28" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaekJoon/2166/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -116,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BaekJoon/2605/s1.py" />
-        <option value="$PROJECT_DIR$/BaekJoon/2564/s1.py" />
         <option value="$PROJECT_DIR$/BaekJoon/1244/s1.py" />
         <option value="$PROJECT_DIR$/BaekJoon/2116/s1.py" />
         <option value="$PROJECT_DIR$/BaekJoon/2116/s2.py" />
@@ -167,14 +168,16 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/BaekJoon/20057/s1.py" />
         <option value="$PROJECT_DIR$/SWEA/2805_농작물 수확하기/s1.py" />
+        <option value="$PROJECT_DIR$/BaekJoon/12865/s1.py" />
+        <option value="$PROJECT_DIR$/BaekJoon/2166/s1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="196" />
-    <option name="y" value="212" />
-    <option name="width" value="1058" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1912" />
+    <option name="y" value="-457" />
+    <option name="width" value="1096" />
+    <option name="height" value="1896" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -194,13 +197,18 @@
             <path>
               <item name="Algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="BaekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="10828" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm_practice" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="2805_농작물 수확하기" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1008" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../battle" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -224,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (1)">
+  <component name="RunManager" selected="Python.s1 (2)">
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/14499" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/2166" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/14499/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/2166/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/15685" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaekJoon/12865" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/15685/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaekJoon/12865/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (2)" />
+        <item itemvalue="Python.s1 (4)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -354,15 +362,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-457" width="1096" height="1896" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09641728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17296787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43058568" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42407808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5032538" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,16 +404,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/1211_Ladder2/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1366">
-          <caret line="1009" column="199" selection-start-line="1009" selection-start-column="199" selection-end-line="1009" selection-end-column="199" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/5431_민석/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/5431_민석/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
@@ -721,8 +719,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BaekJoon/15685/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="25" column="20" selection-end-line="26" selection-end-column="10" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaekJoon/20057/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaekJoon/12865/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -733,10 +745,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaekJoon/20057/s1.py">
+    <entry file="file://$PROJECT_DIR$/BaekJoon/2166/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="297">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
